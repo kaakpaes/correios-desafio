@@ -22,6 +22,13 @@ importante do formulário. 👑
 diferentes tipos: (text, email, number, password, radio, checkbox)
 ```
 
+## Veja como ficou a página:
+
+
+https://user-images.githubusercontent.com/113450612/231363446-5a1c9b9a-146e-476f-a019-ded18090df84.mp4
+
+
+
 ## Não vamos nos prolongar nessa belezura, né? Só dá um bizu rápido para eu não passar muita vergonha. 
 <div align="center">
 
